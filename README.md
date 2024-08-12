@@ -1,4 +1,4 @@
-#EventTickitingSystem
+# EventTickitingSystem
 Features:
 Event Creation: Organizers can create and manage events, specifying details like event ID, name, and ticket availability.
 Ticket Purchase: Users can buy tickets for events, with the system automatically tracking ticket sales and updating user accounts.
