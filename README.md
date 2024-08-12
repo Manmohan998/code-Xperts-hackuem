@@ -1,5 +1,7 @@
-Event Ticketing System
+#EventTicketingSystem
+
 Overview
+
 The Event Ticketing System is a comprehensive platform designed for seamless event management and ticketing. It caters to both event organizers and attendees, enabling the creation, purchase, transfer, and management of event tickets in a secure and user-friendly environment.
 
 Features
